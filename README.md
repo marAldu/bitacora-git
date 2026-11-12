@@ -1,1 +1,1 @@
-"# Bit cora de tareas 2026" 
+"# Bit cora de tareas - versi¢n final" 
