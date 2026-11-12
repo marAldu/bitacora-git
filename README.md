@@ -1,1 +1,1 @@
-"# Bit cora de tareas" 
+"# Bit cora simple" 
